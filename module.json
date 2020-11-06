@@ -6,7 +6,7 @@
   "library": true,
   "authors": [
     {
-      "name": "The League of Extraodinary FVTT Developers",
+      "name": "The League of Extraordinary FVTT Developers",
       "url": "https://github.com/League-of-Foundry-Developers"
     },
     {
@@ -16,10 +16,10 @@
   ],
   "minimumCoreVersion": "0.0.0",
   "compatibleCoreVersion": "1.0.0",
-  "scripts": ["math.min.js"],
-  "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/mathjs-lib/master/module.json",
-  "url": "https://github.com/League-of-Foundry-Developers/mathjs-lib",
-  "download": "https://github.com/League-of-Foundry-Developers/mathjs-lib/releases/download/7.5.1-fvtt2/_mathjs.zip",
+  "scripts": ["Sortable.min.js"],
+  "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/sortablejs-lib/main/module.json",
+  "url": "https://github.com/League-of-Foundry-Developers/sortablejs-lib",
+  "download": "",
   "media": [
     {
 			"type": "icon",
