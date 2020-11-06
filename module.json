@@ -19,7 +19,7 @@
   "scripts": ["Sortable.min.js"],
   "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/sortablejs-lib/main/module.json",
   "url": "https://github.com/League-of-Foundry-Developers/sortablejs-lib",
-  "download": "",
+  "download": "https://github.com/League-of-Foundry-Developers/sortablejs-lib/releases/download/v1.10.2-fvtt1/_sortablejs.zip",
   "media": [
     {
 			"type": "icon",
