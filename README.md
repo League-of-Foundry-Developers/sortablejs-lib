@@ -1,4 +1,6 @@
 ## FVTT Package
+![SortableJS](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FLeague-of-Foundry-Developers%2Fleague-repo-status%2Fshields-endpoint%2F_sortablejs.json)
+
 LIBRARY: SortableJS - This module is just a dependency for other modules and does not offer any functionality on its own. This module includes the popular SortableJS library.
 
 # Sortable &nbsp; [![Financial Contributors on Open Collective](https://opencollective.com/Sortable/all/badge.svg?label=financial+contributors)](https://opencollective.com/Sortable) [![CircleCI](https://circleci.com/gh/SortableJS/Sortable.svg?style=svg)](https://circleci.com/gh/SortableJS/Sortable) [![DeepScan grade](https://deepscan.io/api/teams/3901/projects/5666/branches/43977/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=3901&pid=5666&bid=43977) [![](https://data.jsdelivr.com/v1/package/npm/sortablejs/badge)](https://www.jsdelivr.com/package/npm/sortablejs) [![npm](https://img.shields.io/npm/v/sortablejs.svg)](https://www.npmjs.com/package/sortablejs)
