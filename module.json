@@ -22,8 +22,8 @@
   "download": "https://github.com/League-of-Foundry-Developers/sortablejs-lib/releases/download/v1.14.0-fvtt1/_sortablejs.zip",
   "media": [
     {
-			"type": "icon",
-			"link": "https://sortablejs.github.io/sortablejs/st/og-image.png"
-		}
+        "type": "icon",
+        "link": "https://sortablejs.github.io/Sortable/st/og-image.png"
+    }
   ]
 }
